@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Aradhya Tagotra
+##  Hi, I'm Aradhya Tagotra
 
 🎓 Final-year B.Tech Computer Science student  
 💻 Aspiring Full Stack Developer  
@@ -6,14 +6,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a Computer Science undergraduate with hands-on experience in full stack web development.  
 I enjoy building responsive web applications using modern frontend and backend technologies and continuously improving my skills through projects and internships.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Frontend:** HTML, CSS, JavaScript, React  
 **Backend:** Node.js, Express.js, MongoDB, SQL  
@@ -22,7 +22,7 @@ I enjoy building responsive web applications using modern frontend and backend t
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ### 🔹 SIGMA GPT – AI Chatbot
 A full-stack AI chatbot inspired by ChatGPT.
@@ -54,7 +54,7 @@ A Spotify-inspired UI clone built using HTML and CSS.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Internship in Machine Learning – Livewire  
 - Internship in Cyber Security – Corizo  
@@ -62,7 +62,7 @@ A Spotify-inspired UI clone built using HTML and CSS.
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 📧 Email: aradhya.ycet@gmail.com 
 
